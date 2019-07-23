@@ -1,11 +1,7 @@
-# odooplm
+# odoo12
 
-This is the develompent repository of odoo plm starting from version v11 of odoo
+a set of odoo12 open modules to use odoo as a open eductional resources.
+thanks to 
+* [OmniaGit/odooplm](https://github.com/OmniaGit/odooplm)
 
-This series of modules increase the capability of odoo in the plm field.
-for any issues you may send an e-mail to info@omniasolutions.eu
-
-The old repository for the version before 11 remain at the following link:
-https://sourceforge.net/projects/openerpplm/
-at the same address you can also find more information regarding the solution
 
